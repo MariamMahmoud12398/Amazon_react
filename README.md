@@ -1,2 +1,1 @@
-
-https://effulgent-kataifi-90750a.netlify.app
+https://effulgent-kataifi-90750a.netlify.app/
