@@ -3,6 +3,8 @@ import Cards from './Card.jsx';
 import Navbar from './Navbar.jsx';
 import products from './Product.js';
 import Footer from './Footer.jsx';
+import { SearchIcon } from 'lucide-react';
+import { ShoppingCartIcon } from 'lucide-react';
 
 export default function App() {
   return (
